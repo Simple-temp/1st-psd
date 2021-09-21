@@ -1,0 +1,87 @@
+@media (max-width:1200px)
+{
+    .container
+    {
+        padding:0 1rem;
+    }
+    .text-box 
+    {
+        width:44rem;
+    }
+    .text 
+    {
+        padding-left:4.1rem;
+    }
+    .client-section .extra-height,
+    .contact-section .section-wrapper.extra-height
+    {
+        padding-top:5rem;
+    }
+}
+@media (max-width:1000px)
+{
+    .text-box 
+    {
+        width:33rem;
+    }
+    .text 
+    {
+        padding-left:3.5rem;
+    }
+    .col-md-6 
+    {
+        margin-top:1.4rem;
+    }
+    .protfolio-section .section-title 
+    {
+        text-align: left;
+        width: 72%;
+        margin-right: auto;
+        position: relative;
+    }
+    .protfolio-section .section-title h2 
+    {
+        text-align: center;
+    }
+    .sub-contact-form .col-md-6
+    {
+        width:47% !important;
+    }
+}
+@media (max-width:768px)
+{
+    .text-box 
+    {
+        width:100%;
+    }
+    .sub-contact-form .col-md-6
+    {
+        width:47% !important;
+    }
+}
+@media (max-width:580px)
+{
+    .container
+    {
+        padding:0 1.9rem;
+    }
+    .sub-contact-form .col-md-6
+    {
+        width:98% !important;
+    }
+    .footer-box .terms,
+    .footer-box .copyright 
+    {
+        width:100%;
+        display:block;
+    }
+    .footer-box
+    {
+        display: block;
+        justify-content: start;
+    }
+    .footer-box .copyright 
+    {
+        margin-top:1.5rem;
+    }
+}
